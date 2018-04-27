@@ -1,2 +1,2 @@
 # CS251_Assignments
-Asiignments
+Assignments
